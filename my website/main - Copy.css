@@ -61,6 +61,10 @@ ul a:hover{
   margin-top: 0px;
 }
 
+.column p {
+  color: aqua;
+ }
+
 .image {
 padding: 60px;
   position: relative;
